@@ -476,21 +476,21 @@ caption {
 
 .btn-danger {
   color: #ffffff;
-  background-color: #ea4c62;
-  border-color: #ea4c62; 
-  box-shadow: 4px 4px 12px rgba(13, 39, 80, 0.25), -4px -4px 12px white !important;
+  background-color: #8C52FF;
+  border-color: #8C52FF;
+  box-shadow: 4px 4px 12px rgba(114, 119, 128, 0.25), -4px -4px 12px white !important;
 }
 
 .btn-danger:hover {
-  color: #ffffff;
-  background-color: #c82333;
-  border-color: #bd2130; }
+  color: #8C52FF;
+  background-color: #ffffff;
+  border-color: #8C52FF; }
 
 .btn-check:focus + .btn-danger,
 .btn-danger:focus {
   color: #ffffff;
-  background-color: #c82333;
-  border-color: #bd2130; }
+  background-color: #8C52FF;
+  border-color: #8C52FF; }
 
 .btn-check:checked + .btn-danger,
 .btn-check:active + .btn-danger,
@@ -498,14 +498,14 @@ caption {
 .btn-danger.active,
 .show > .btn-danger.dropdown-toggle {
   color: #ffffff;
-  background-color: #bd2130;
-  border-color: #b21f2d; }
+  background-color: #8C52FF;
+  border-color: #8C52FF; }
 
 .btn-danger:disabled,
 .btn-danger.disabled {
   color: #ffffff;
-  background-color: #ea4c62;
-  border-color: #ea4c62; }
+  background-color: #8C52FF;
+  border-color: #8C52FF; }
 
 .btn-light {
   color: #1f0757;
