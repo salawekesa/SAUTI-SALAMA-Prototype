@@ -4465,11 +4465,11 @@ form .btn-lg {
   z-index: 10; }
 .hero-block-content a
 {
-  box-shadow: 4px 4px 12px rgba(1, 1, 2, 0.14), -4px -4px 12px #ff4f2c !important;
+  box-shadow: 4px 4px 12px rgba(1, 1, 2, 0.14), -4px -4px 12px  !important;
 }
 .hero-block-content a:hover
 {
-  color:#fb3d18 ;
+  color:#8C52FF ;
   background-color: #FFF;
   /*! border-color:#fff; */
 }
@@ -5780,8 +5780,8 @@ div.dataTables_wrapper div.dataTables_paginate {
   color: #ffffff; }
 
 .toast-danger {
-  background-color: #ea4c62 !important;
-  color: #ffffff; }
+  background-color: #ffffff !important;
+  color: #8c52ff; }
 
 .toast-warning {
   background-color: #f1b10f !important;
